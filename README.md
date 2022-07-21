@@ -9,9 +9,7 @@ a) GitFlow란 무엇인가?
 	- 데이터를 어떤 방식으로 저장하고 정렬하느냐에 따라 추출 방식 등 데이터를 처리
 	및 조작하는데 필요한 코드가 달라진다.
 
-2.자료 구조
-
-a)  GitFlow를 하기 위한 branch 종류
+b)  GitFlow를 하기 위한 branch 종류
 
 	- 1.master
     2.develop
@@ -19,7 +17,7 @@ a)  GitFlow를 하기 위한 branch 종류
     4.release
     5.hotfix
 
-b)  GitFlow 활용 방법
+c)  GitFlow 활용 방법
 	
 
 	-gitflow
@@ -33,7 +31,7 @@ b)  GitFlow 활용 방법
 </p>
 
 
-c)  GitFlow를 통해 진행 과정
+d)  GitFlow를 통해 진행 과정
 
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/99077276/180276527-f1d3821e-15d7-421f-8a71-72163b441e32.png">
