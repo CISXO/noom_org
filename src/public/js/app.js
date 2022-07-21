@@ -1,5 +1,7 @@
 const socket = io();
 
+const nickname = document.getElementById("nickname");
+const form = nickname.querySelector("form");
 const myFace = document.getElementById("myFace");
 const muteBtn = document.getElementById("mute");
 const cameraBtn = document.getElementById("camera");
